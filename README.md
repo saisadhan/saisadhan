@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Data Science and Cloud GIF">
-</div>
-
-<h1 align="center">Sai Sadhan Saravanan</h1>
+<h1 align="center">Hi there! 👋 I'm Sai Sadhan Saravanan</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saisadhan/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>&nbsp;&nbsp;
@@ -26,7 +22,7 @@ Welcome to my GitHub profile! I'm a Software Engineer (Cloud, Data Science) with
 - **Languages:** Python, SQL, R, Bash, JavaScript.
 - **Libraries:** NumPy, pandas, Sci-kit-learn, TensorFlow, Keras, Matplotlib.
 - **Technologies:** Tableau, Jupyter Notebook, Git, SQL Server, MongoDB, AWS, Azure, GCP, Docker, Kubernetes.
-- **Certifications:** Python for Data Science, Google Professional Cloud Architect.
+- **Certifications:** [Python for Data Science](), [Google Professional Cloud Architect](), [Google Associate Cloud Engineer]().
 
 ## Achievements
 - 🏆 Recipient of Beta Gamma Sigma honors.
