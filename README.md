@@ -5,7 +5,7 @@
   <a href="mailto:saisadhan98@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
 </p>
 
-Welcome to my GitHub profile! I'm a Software Engineer (Cloud, Data Science) with 3+ years of work experience based in Tempe, AZ, with a knack for transforming complex data into actionable insights.
+Welcome to my GitHub profile! I'm a technologist interested in Data Science and cloud technologies with around 3 years of work experience based in Tempe, AZ, with a knack for transforming complex data into actionable insights.
 
 ## About Me
 - 🎓 Master of Science in Information Systems Management with a specialization in Data Science from Arizona State University.
