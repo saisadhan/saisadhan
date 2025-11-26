@@ -7,24 +7,22 @@
   <a href="mailto:saisadhan98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-Welcome to my GitHub profile! I'm a technologist interested in Data & AI with around 3 years of experience as software Engineer at Cognizant Technology Solutions and 1 year of experience as graduate research assistant at Arizona State university. I have hands-on expertise in:
-
-- Data Migration, Optimization, and ETL Processes across on prem and cloud platforms  
-- Applying data mining, machine learning, and statistical modeling techniques with Python 
+Welcome to my GitHub profile! I’m a technologist with 4+ years of experience delivering backend services, microservices architectures, cloud-native systems, and high-performance ETL/data pipelines. I have hands-on expertise in distributed systems, API development, DevOps automation, and integrating LLM/AI capabilities into production workflows. **I’m currently seeking challenging SDE roles where I can contribute to building scalable backend and cloud-native systems.**
 
 ## About Me
-- 🎓 Master of Science in Information Systems Management from W. P. Carey School of Business, Arizona State University, USA
+- 🎓 Master of Science in Information Systems (with Distinction), Arizona State University, USA
 - 💼 Internships at Cognizant Technology Solutions, Lenovo, Nokia, Bharat Electronics Limited.
 
 
-## Skills & Tools
-- **Python**, **SQL**, **Bash**.
-- **Data Modeling**, **ETL Pipelines**, **Data Migration**
-- **MySQL**, **MS SQL Server**, **AWS**, **GCP**
-- **NumPy**, **pandas**, **Scikit-learn**, **TensorFlow**, **Keras**, **Matplotlib**
+## **Skills & Tools**
+
+* **Python**, **C#**, **Java**, **SQL**, **Bash**
+* **Backend Development**, **REST APIs**, **Microservices**, **Distributed Systems**
+* **MySQL**, **MS SQL Server** , **Data Modeling**, **ETL Pipelines**, **Data Migration**
+* **AWS**, **GCP** , **Docker**, **Kubernetes**, **Terraform**
 
 ## Achievements
-- 🏆 Recipient of Beta Gamma Sigma honors.
+- 🏆 
 - ⭐ Recognized for outstanding professional performance at Cognizant.
 
 ## Let's Connect!
